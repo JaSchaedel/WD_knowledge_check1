@@ -143,7 +143,7 @@ a:hover, a:active {
 
 }
 
-/* .hero-container .btn, .hero-container .btn:visited  {
+ .hero-container .btn, .hero-container .btn:visited  {
     width: 100%;
     max-width: 260px;
     background: chartreuse;
@@ -157,7 +157,7 @@ a:hover, a:active {
     text-transform: uppercase;
     margin: 12px auto 24px;
     display: block;
-} */
+} 
 
 .hero-content .btn, .hero-content .btn:visited  {
     width: 100%;
