@@ -110,6 +110,41 @@ body {
     
 }
 
+.contact-container {
+    background: #29326a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
+}
+
+.contact-content {
+    color: #F1F1F1;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+
+/*.contact-content h2 {
+    text-decoration: underline;
+}*/
+
+.contact-content ul {
+    border: 2px solid #F1F1F1;
+    padding: 48px;
+}
+
+.contact-content li {
+    list-style-type: none;
+    font-size: 15px;
+    padding-bottom: 10px;
+
+}
+
 .footer-container {
     background: #1b1b27;
     display: flex;
